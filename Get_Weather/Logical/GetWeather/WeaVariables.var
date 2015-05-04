@@ -1,0 +1,5 @@
+VAR
+	weather : weather_typ;
+	response_JSON_valid : BOOL;
+	response_JSON : STRING[1000];
+END_VAR

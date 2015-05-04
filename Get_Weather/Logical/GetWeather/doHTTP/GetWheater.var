@@ -1,0 +1,11 @@
+VAR
+	httpResponse : STRING[1000];
+	httpClient_0 : httpClient;
+	weatherURL_hostname : STRING[100];
+	weatherURL_path : STRING[200];
+	TOFF_10ms_0 : TOF_10ms;
+	waitPeriod_10ms : UINT;
+	R_TRIG_0 : R_TRIG;
+	TOF_10ms_0 : TOF_10ms;
+	TON_10ms_0 : TON_10ms;
+END_VAR

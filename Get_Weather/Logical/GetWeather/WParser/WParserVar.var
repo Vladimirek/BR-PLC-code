@@ -1,0 +1,12 @@
+VAR
+	p_humidity : LREAL;
+	p_wind_deg : LREAL;
+	p_wind_speed : LREAL;
+	p_clouds : LREAL;
+	r1 : INT;
+	r2 : INT;
+	r3 : INT;
+	r4 : INT;
+	r5 : INT;
+	p_temp : LREAL;
+END_VAR

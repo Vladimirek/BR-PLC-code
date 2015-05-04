@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.2.1.211?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File" Private="true">WeaTypes.typ</Object>
+    <Object Type="File" Private="true">WeaVariables.var</Object>
+    <Object Type="Program" Language="IEC">doHTTP</Object>
+    <Object Type="Program" Language="ANSIC">WParser</Object>
+    <Object Type="File">LICENSE.txt</Object>
+  </Objects>
+</Package>
